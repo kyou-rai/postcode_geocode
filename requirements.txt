@@ -1,4 +1,6 @@
-requests==2.22.0
-googlemaps
-kanjize
-jaconv
+google-cloud-storage>=1.26.0
+requests>=2.22.0
+python-dateutil>=2.8.1
+googlemaps>=4.2.0
+kanjize>=0.1.0
+jaconv>=0.2.4
